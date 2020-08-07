@@ -1,1 +1,1 @@
-# fullcycle-docker-laravel
+# fullcycle-devops-desafio-processo-ci
